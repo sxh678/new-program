@@ -1,5 +1,5 @@
 # new-program
 这是一个仓库
-”A-Practitioners-Guide-to-the-ONC-Algorithm“是《Journal of Financial Data Science》上相关论文的代码库，围绕最优聚类数（ONC）算法展开，用于评估投资策略，检测虚假策略。提供了算法及优化版本实现，还有辅助工具、数据生成脚本和案例研究，能减少算法运行时间，缓解异常值影响。
+“A-Practitioners-Guide-to-the-ONC-Algorithm”是《Journal of Financial Data Science》上相关论文的代码库，围绕最优聚类数（ONC）算法展开，用于评估投资策略，检测虚假策略。提供了算法及优化版本实现，还有辅助工具、数据生成脚本和案例研究，能减少算法运行时间，缓解异常值影响。
 “Awesome Quant”是一个精心整理的量化金融领域资源集合，涵盖Python、R、Java等多种编程语言，包含交易回测、因子分析、金融工具定价等多类工具库，还涉及研究复现、培训及书籍相关资源，为从业者和学习者提供了丰富的量化金融工具导航。
 “Awesome Chess”的精选列表，收集了互联网上与国际象棋相关的各类资源，涵盖书籍、FEN解析器、走法验证器、机器人程序、网站、棋盘工具、记谱法、棋子素材以及相关演讲等内容。
